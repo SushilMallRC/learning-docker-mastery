@@ -9,7 +9,7 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 - Get these courses with my "cheapest on the internet" coupon links: [bretfisher.com/courses](https://www.bretfisher.com/courses)
 - Get the [weekly newsletter](https://www.bretfisher.com/newsletter) on all the cloud native DevOps content I'm creating.
 
-## Course Sections
+## Course Sectionss
 
 1. Quick Start!
    1. [README](./intro/README.md)
