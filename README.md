@@ -1,7 +1,7 @@
 # Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
 
 
-> Build, test, and deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using a cloud native DevOps mindset
+> Build, test, and deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using a cloud native DevOps mindsets
 
 This repository is for use in my Udemy Courses "[Docker Mastery](https://www.udemy.com/course/docker-mastery/?referralCode=1410924A733D33635CCB
 )" and "[Swarm Mastery](https://www.udemy.com/course/docker-swarm-mastery/?referralCode=4927D9CB156D4AE0228C)"
