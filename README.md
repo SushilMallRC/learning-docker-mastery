@@ -7,7 +7,7 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 )" and "[Swarm Mastery](https://www.udemy.com/course/docker-swarm-mastery/?referralCode=4927D9CB156D4AE0228C)"
 
 - Get these courses with my "cheapest on the internet" coupon links: [bretfisher.com/courses](https://www.bretfisher.com/courses)
-- Get the [weekly newsletter](https://www.bretfisher.com/newsletter) on all the cloud native DevOps content I'm creating.
+- Get the [weekly newsletter](https://www.bretfisher.com/newsletter) on all the cloud native DevOps content I'm creating.s
 
 ## Course Sectionss
 
